@@ -1,4 +1,4 @@
 # whelperdiscord
-The WHelper Discord Bot
-
-# e
+The WHelper Discord bot source code
+# Website and Invite
+https://whelperbot.blogspot.com
